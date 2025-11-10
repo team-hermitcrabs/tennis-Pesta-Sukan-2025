@@ -7,6 +7,7 @@ const SYNC_MESSAGE_ID_COLUMN = 10; // Column N for storing sync message
 
 // TARGET SHEET CONFIGURATION - Change this to switch sheets
 const TARGET_SHEET_NAME = "Schedule and results";
+
 /**
  * Get the target sheet by name
  */
